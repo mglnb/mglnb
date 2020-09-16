@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 ### You can check my latests posts on medium 💬
 
 [![Miguel Boanova Medium](https://github-readme-medium.vercel.app/?username=miguelboanova)](https://medium.com/@miguelboanova)
+
+----
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
