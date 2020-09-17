@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript       2 hrs 8 mins    ███████████████▒░░░░░░░░░   61.57 % 
+JavaScript       55 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.50 % 
+Docker           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Other            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Blade Template   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
