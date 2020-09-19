@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript       2 hrs 8 mins    ███████████████▒░░░░░░░░░   61.57 % 
-JavaScript       55 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.50 % 
-Docker           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Other            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Blade Template   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+TypeScript   12 hrs 29 mins  ████████████████████▒░░░░   81.61 % 
+PHP          1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+JavaScript   55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 <!--END_SECTION:waka-->
