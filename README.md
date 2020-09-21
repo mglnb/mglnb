@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ----
 
+**📊 My weekly coding stats** 
+
 <!--START_SECTION:waka-->
 ```text
 TypeScript   13 hrs 49 mins  ████████████████▒░░░░░░░░   64.93 % 
