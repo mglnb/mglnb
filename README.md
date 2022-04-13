@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Miguel Boanova.
+My name is Miguel Boanova, and you can find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-miguelboanova-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelboanova/)](https://www.linkedin.com/in/miguelboanova/)
 [![Instagram Badge](https://img.shields.io/badge/-mgl_boanova-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mgl_boanova/)](https://www.instagram.com/mgl_boanova/)
@@ -25,4 +25,13 @@ Here are some ideas to get you started:
 ### You can check my latests posts on medium 💬
 
 [![Miguel Boanova Medium](https://github-readme-medium.vercel.app/?username=miguelboanova)](https://medium.com/@miguelboanova)
+
+---
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mglnb&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+    &nbsp;
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mglnb&count_private=true&theme=radical&layout=compact" />
+</div>
+
 
