@@ -3,7 +3,6 @@
 My name is Miguel Boanova, and you can find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-miguelboanova-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelboanova/)](https://www.linkedin.com/in/miguelboanova/)
-[![Instagram Badge](https://img.shields.io/badge/-mgl_boanova-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mgl_boanova/)](https://www.instagram.com/mgl_boanova/)
 [![Facebook Badge](https://img.shields.io/badge/-miguel.boanova-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/miguel.boanova)](https://www.facebook.com/miguel.boanova)
 [![Medium Badge](https://img.shields.io/badge/-@miguelboanova-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@miguelboanova)](https://medium.com/@miguelboanova)
 
@@ -21,10 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### You can check my latests posts on medium 💬
-
-[![Miguel Boanova Medium](https://github-readme-medium.vercel.app/?username=miguelboanova)](https://medium.com/@miguelboanova)
 
 ---
 
