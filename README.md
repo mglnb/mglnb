@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Miguel Boanova 👋</h1>
 
 <p align="center">
-  Software developer from Brazil, building useful products for the web and mobile.
+  Full-stack developer from Brazil, building and operating production-ready software.
 </p>
 
 <p align="center">
@@ -15,10 +15,11 @@
 
 ### About me
 
-- I enjoy turning ideas into simple, maintainable software.
-- I work across backend, frontend, and mobile development.
-- My recent projects use **TypeScript**, **PHP**, and modern web technologies.
-- I'm interested in product development, automation, and applied AI.
+- I work across backend, frontend, mobile, and cloud infrastructure.
+- My core stack includes **TypeScript**, **PHP**, and modern web technologies.
+- I build distributed systems with messaging and asynchronous processing.
+- I develop applied AI solutions using **RAG** and **multi-agent workflows**.
+- I care about observability, automation, reliability, and maintainable software.
 
 ### Toolbox
 
@@ -29,4 +30,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
