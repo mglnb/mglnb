@@ -16,21 +16,21 @@
 ### About me
 
 - I work across backend, frontend, mobile, and cloud infrastructure.
-- My core stack includes **TypeScript**, **PHP**, and modern web technologies.
+- My core stack includes **Laravel**, **PHP**, **TypeScript**, **React**, and **Node.js**.
 - I build distributed systems with messaging and asynchronous processing.
-- I develop applied AI solutions using **RAG** and **multi-agent workflows**.
-- I care about observability, automation, reliability, and maintainable software.
+- I develop applied AI solutions using **RAG**, tool use, and **multi-agent workflows**.
+- I care about observability, automation, security, reliability, and maintainable software.
 
-### Toolbox
+### What I work with
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+- Web and mobile product development
+- APIs, integrations, and distributed systems
+- Messaging, queues, and asynchronous processing
+- Cloud infrastructure and containerized workloads
+- Observability, deployment, and production reliability
+- RAG pipelines and multi-agent AI systems
+
+### Technologies
+
+**TypeScript · PHP · Laravel · React · Node.js**<br>
+**PostgreSQL · Redis · Docker · AWS · OpenTelemetry**
