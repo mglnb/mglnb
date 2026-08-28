@@ -30,10 +30,3 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
-
-### GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mglnb&show_icons=true&hide_border=true&theme=transparent" alt="Miguel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mglnb&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
